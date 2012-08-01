@@ -1,0 +1,4 @@
+mdMediaDoctrinePlugin
+=====================
+
+For media management
